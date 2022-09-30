@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Balaji2202-bit/Balaji2202-bit.git
+git branch -M main
+git push -u origin main
